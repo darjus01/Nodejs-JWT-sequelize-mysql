@@ -1,0 +1,16 @@
+{
+  "user_roles": [
+      {
+          "value": "admin"
+      },
+      {
+          "value": "broker"
+      },
+      {
+          "value": "client"
+      }
+  ],
+  "client_role": "client",
+  "broker_role": "broker",
+  "admin_role": "admin"
+}

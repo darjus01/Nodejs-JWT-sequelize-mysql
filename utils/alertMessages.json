@@ -1,0 +1,36 @@
+{
+  "global": {
+    "required": "required"
+  },
+  "roles": {
+    "required": "role_required" 
+  },
+  "users": {
+    "minName": "name_is_to_short_minimum_is_3",
+    "maxName": "name_is_to_long_max_150",
+    "minSurname": "surname_is_to_short_minimum_is_3",
+    "maxSurname": "surname_is_to_long_max_150",
+    "minEmail": "email_is_to_short_minimum_is_3",
+    "maxEmail": "email_is_to_long_max_150",
+    "ltPhone": "phone_must_be_in_lithuanian_format",
+    "registrationFailed": "registration_failed",
+    "registrationSuccess": "registration_success",
+    "emailAlreadyInUse": "email_is_already_in_use",
+    "activationLinkIsWrong": "activation_link_is_wrong",
+    "activationLinkGood": "activation_link_is_good",
+    "passwordsMustMatch": "passwords_must_match",
+    "userNotActivated": "user_not_activated",
+    "hashLinkNotExists": "hash_link_not_exists",
+    "userDontExits": "user_dont_exists",
+    "userActivated": "user_activated"
+  },
+  "login": {
+    "userDontExits": "user_dont_exists",
+    "badCredentials": "bad_credentials",
+    "invalidEmail": "invalid_email"
+  },
+  "auth": {
+    "invalidToken": "invalid_token",
+    "undefinedToken": "undevinend_token"
+  }
+}

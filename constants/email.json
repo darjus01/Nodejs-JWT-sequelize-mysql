@@ -1,0 +1,8 @@
+{
+  "client": {
+    "registration": {
+      "subject": "Kliento registracija",
+      "templateFileName": "registerclient"
+    }
+  }
+}
